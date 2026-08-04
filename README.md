@@ -4,7 +4,8 @@
 An extension made from Lego pieces that can be attached to my bedside.
 
 *Below is the entire setup
-<img width="756" height="1008" alt="IMG_1227" src="https://github.com/user-attachments/assets/b63ec9d5-6885-479b-ab91-e01b5f7080b8" />
+<img width="756" height="1008" alt="IMG_1225" src="https://github.com/user-attachments/assets/57ebf3ba-7e8f-491d-9866-b4abdec04bdf" />
+
 
 # The whole thing is actually made up of 2 parts(the ones below
 *Below is the paper plane firing platform ONLY
