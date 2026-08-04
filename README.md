@@ -7,7 +7,9 @@ An extension made from Lego pieces that can be attached to my bedside.
 <img width="756" height="1008" alt="IMG_1225" src="https://github.com/user-attachments/assets/57ebf3ba-7e8f-491d-9866-b4abdec04bdf" />
 
 
-# The whole thing is actually made up of 2 parts(the ones below
+
+
+# The whole thing is actually made up of 2 parts(the ones below)
 
 
 
