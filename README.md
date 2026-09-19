@@ -1,7 +1,7 @@
 
-# bedside_paper_plane_launcher
+# Bedside Paper Plane Launcher
 
-An extension made from Lego pieces that can be attached to my bedside.
+An extension made from Lego pieces that can be attached to my bedside and shoot paper airplanes.
 
 *Below is the entire setup
 
